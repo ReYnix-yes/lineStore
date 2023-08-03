@@ -1,0 +1,38 @@
+.main {
+    display: flex;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.checkbox__wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 120px;
+    margin-top: 16px;
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.checkbox__label {
+    color: white;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.filter__title {
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.all__products {
+    width: 100%;
+}

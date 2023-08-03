@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "name": "Samsung Laptop X21312",
+      "company": "Samsung",
+      "category": "Technology",
+      "type": "laptop",
+      "price": "499",
+      "image": "https://images.samsung.com/is/image/samsung/hk-en-notebook-9-pen-np950sbe-x01-np950sbe-x01hk-Blue-138821345?scl=1&fmt=png-alpha",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 1
+    },
+    {
+      "name": "Samsung Laptop X213121",
+      "company": "Samsung",
+      "category": "Technology",
+      "type": "laptop",
+      "price": "499",
+      "image": "https://images.samsung.com/is/image/samsung/hk-en-notebook-9-pen-np950sbe-x01-np950sbe-x01hk-Blue-138821345?scl=1&fmt=png-alpha",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 2
+    },
+    {
+      "name": "Samsung Laptop X213122",
+      "company": "Samsung",
+      "category": "Technology",
+      "type": "laptop",
+      "price": "499",
+      "image": "https://images.samsung.com/is/image/samsung/hk-en-notebook-9-pen-np950sbe-x01-np950sbe-x01hk-Blue-138821345?scl=1&fmt=png-alpha",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 3
+    },
+    {
+      "name": "Samsung Laptop X21312",
+      "company": "Samsung",
+      "category": "Technology",
+      "type": "laptop",
+      "price": "499",
+      "image": "https://images.samsung.com/is/image/samsung/hk-en-notebook-9-pen-np950sbe-x01-np950sbe-x01hk-Blue-138821345?scl=1&fmt=png-alpha",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 4
+    },
+    {
+      "name": "Samsung Laptop X21312",
+      "company": "Samsung",
+      "category": "Technology",
+      "type": "laptop",
+      "price": "499",
+      "image": "https://images.samsung.com/is/image/samsung/hk-en-notebook-9-pen-np950sbe-x01-np950sbe-x01hk-Blue-138821345?scl=1&fmt=png-alpha",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 5
+    },
+    {
+      "name": "Samsung Laptop X21312",
+      "company": "Samsung",
+      "category": "Technology",
+      "type": "laptop",
+      "price": "499",
+      "image": "https://images.samsung.com/is/image/samsung/hk-en-notebook-9-pen-np950sbe-x01-np950sbe-x01hk-Blue-138821345?scl=1&fmt=png-alpha",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 6
+    },
+    {
+      "name": "Samsung Laptop X21312",
+      "company": "Samsung",
+      "category": "Technology",
+      "type": "laptop",
+      "price": "499",
+      "image": "https://images.samsung.com/is/image/samsung/hk-en-notebook-9-pen-np950sbe-x01-np950sbe-x01hk-Blue-138821345?scl=1&fmt=png-alpha",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 7
+    },
+    {
+      "name": "Samsung Laptop X21312",
+      "company": "Samsung",
+      "category": "Technology",
+      "type": "laptop",
+      "price": "499",
+      "image": "https://images.samsung.com/is/image/samsung/hk-en-notebook-9-pen-np950sbe-x01-np950sbe-x01hk-Blue-138821345?scl=1&fmt=png-alpha",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 8
+    },
+    {
+      "name": "MacBook Pro",
+      "company": "Apple",
+      "category": "Technology",
+      "type": "laptop",
+      "price": "599",
+      "image": "https://www.pngplay.com/wp-content/uploads/12/Macbook-PNG-Photo-Clip-Art-Image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 9
+    },
+    {
+      "name": "IPhone 5s",
+      "company": "Apple",
+      "category": "Technology",
+      "type": "phone",
+      "price": "299",
+      "image": "https://bigproservice.ru/wp-content//uploads/catalog/1%20apple/2%20iphone%205-5s/iphone%205.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 10
+    }
+  ]
+}

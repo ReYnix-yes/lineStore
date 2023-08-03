@@ -1,0 +1,25 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+.image {
+    max-width: 1000px;
+}
+
+.product__wrapper {
+    display: flex;
+
+}
+
+.product__about {
+}
+
+
+.description {
+    max-width: 300px;
+}
